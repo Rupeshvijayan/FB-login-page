@@ -1,0 +1,123 @@
+*{
+	padding:0;
+	margin:0;
+	box-sizing:border-box;
+	font-family: 'Roboto', sans-serif;
+}
+
+#fb_section{
+	height:80vh;
+}
+
+.fb_container{
+	width:70%;
+	margin:auto;
+}
+
+.fb_row{
+	display:flex;
+	margin-top:100px;
+}
+
+.fb_column_1{
+	width:60%;
+	padding:10px;
+}
+	
+.fb_column_2{
+	padding:10px;
+	width:40%;
+}
+
+.fb_title h1{
+	padding:90px 0 15px;
+	font-size:4rem;
+	color:#1877f2;
+}
+
+.fb_title p{
+	font-size:2rem;
+}	
+	
+.fb_login{
+	border:none;
+	border-radius:5px;
+	box-shadow: 0 0 10px #ebebeb;
+	text-align:center;
+}
+
+.fb_input{
+	padding:15px 0 10px;
+}
+	
+.fb_input input{
+	padding:15px 10px;
+	width:90%;
+	margin:5px 0;
+	font-size:1rem;
+	border-radius:5px;
+	border:2px solid #ebebeb;
+}
+
+.login_btn button{
+	padding:10px 145px;
+	background-color:#1877f2;
+	border:none;
+	color:#ffffff;
+	font-size:1.2rem;
+	font-weight:bold;
+	border-radius:5px;
+}
+
+.a_span{
+	padding:15px 0;
+}
+	
+.a_span a{
+	font-size:0.9rem;
+	color:#1877f2;
+	text-decoration:none;
+}
+.a_span a:hover{
+	text-decoration:underline;
+}
+
+.a_span hr{
+	width:90%;
+	margin:20px 0 0 20px;
+	border:1px solid #ebebeb;
+}	
+
+.new_btn{
+	padding:10px 0 30px;
+}
+	
+.new_btn button{
+	padding:15px 30px;
+	color:#ffffff;
+	border:none;
+	font-weight:bold;
+	background-color:#42b72a;
+	border-radius:5px;
+	font-size:1rem;
+}
+
+.new_btn button:hover{
+	background-color:#31A24C;
+}
+
+.end{
+	font-size:0.9rem;
+	padding:25px 35px;
+}
+
+.end a{
+	font-weight:bold;
+	text-decoration:none;
+	color:#000000;
+}
+
+.end a:hover{
+	text-decoration:underline;
+}	
+	
